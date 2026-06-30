@@ -4,9 +4,6 @@
 
 **Piattaforma desktop per la compravendita, lo scambio e il dono di oggetti tra utenti**
 
-
-[
-
 > Progetto universitario sviluppato per il corso di **Programmazione a Oggetti & Basi Dati** — Gruppo OOBD46  
 > Università degli Studi di Napoli Federico II
 
